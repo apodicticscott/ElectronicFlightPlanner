@@ -1,0 +1,2 @@
+DA-20,Diamond,Prop Fuel,182,20,74
+320,Airbus,Jet Fuel,901,4006,23860

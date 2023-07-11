@@ -1,0 +1,5 @@
+CYZD,Toronto-Downsview Airport,Toronto,ATIS-GND,133.6 - 121.1,79.2346,43.3739,4000
+ATL,Atlanta Airport,Atlanta,RADIO-GND,122.5 - 121.9,-84.4277,33.6407
+true,name,aiken,type,125,30,40,10000
+ICAO,scott,Aiken,Type,123,145,45,2000
+ICO,Yes,somwhere,Type,123,45,30,2000
